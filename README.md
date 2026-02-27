@@ -1,5 +1,4 @@
 # Self-Driving-Delivery-Agent
-# Self-Driving Delivery Agent
 
 ![Project Banner](https://img.shields.io/badge/Status-Active-brightgreen)
 ![License](https://img.shields.io/badge/License-MIT-blue)
