@@ -1,0 +1,15 @@
+torch
+tqdm
+transformers
+numpy
+Pillow
+decord
+gradio
+markdown2
+einops
+requests
+sentencepiece
+protobuf
+accelerate
+tokenizers
+pydantic
